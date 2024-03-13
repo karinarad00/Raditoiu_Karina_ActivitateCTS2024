@@ -1,6 +1,6 @@
 package FactoryMethod.fabrici;
 
-import clase.PersonalSpital;
+import SimpleFactory.clase.PersonalSpital;
 
 public interface FactoryAngajati {
 

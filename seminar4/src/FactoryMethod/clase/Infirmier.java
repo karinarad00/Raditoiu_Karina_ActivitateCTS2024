@@ -1,6 +1,6 @@
 package FactoryMethod.clase;
 
-import clase.PersonalSpital;
+import SimpleFactory.clase.PersonalSpital;
 
 public class Infirmier extends PersonalSpital {
     public Infirmier(String nume, int salariu) {

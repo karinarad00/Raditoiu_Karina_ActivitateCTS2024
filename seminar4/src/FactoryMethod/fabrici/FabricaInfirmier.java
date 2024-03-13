@@ -1,7 +1,7 @@
 package FactoryMethod.fabrici;
 
-import clase.Infirmier;
-import clase.PersonalSpital;
+import SimpleFactory.clase.Infirmier;
+import SimpleFactory.clase.PersonalSpital;
 
 public class FabricaInfirmier implements FactoryAngajati{
     @Override

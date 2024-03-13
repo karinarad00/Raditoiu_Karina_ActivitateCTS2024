@@ -1,4 +1,4 @@
-package clase;
+package SimpleFactory.clase;
 
 public class Asistent extends PersonalSpital{
     public Asistent(String nume, int salariu) {
