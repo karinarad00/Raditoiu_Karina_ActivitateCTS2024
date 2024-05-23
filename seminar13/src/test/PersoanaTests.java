@@ -1,6 +1,5 @@
 package test;
 
-
 import model.IPersoana;
 import model.Persoana;
 import org.junit.Test;
